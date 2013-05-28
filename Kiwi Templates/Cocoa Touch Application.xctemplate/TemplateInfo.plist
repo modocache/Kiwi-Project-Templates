@@ -102,8 +102,7 @@
         <key>___VARIABLE_classPrefix:identifier___AppDelegate.h:ivars</key>
         <dict>
             <key>Beginning</key>
-            <string>
-@interface ___VARIABLE_classPrefix:identifier___AppDelegate : UIResponder &lt;UIApplicationDelegate&gt;
+            <string>@interface ___VARIABLE_classPrefix:identifier___AppDelegate : UIResponder &lt;UIApplicationDelegate&gt;
 </string>
             <key>Indent</key>
             <integer>1</integer>
@@ -119,8 +118,7 @@
         </dict>
 
         <key>___VARIABLE_classPrefix:identifier___AppDelegate.m:implementation</key>
-        <string>
-@implementation ___VARIABLE_classPrefix:identifier___AppDelegate
+        <string>@implementation ___VARIABLE_classPrefix:identifier___AppDelegate
 </string>
 
         <key>main.m:main:UIApplicationMain</key>
