@@ -25,21 +25,6 @@
 
         <key>Definitions</key>
         <dict>
-            <key>../Podfile</key>
-            <string>#
-#  ___FILENAME___
-#  ___PACKAGENAME___
-#
-#  Created by ___FULLUSERNAME___ on ___DATE___.
-#___COPYRIGHT___
-#
-
-platform :ios
-
-target :___PACKAGENAME___Tests, :exclusive => true do
-  pod 'Kiwi'
-end</string>
-
             <key>___VARIABLE_classPrefix:identifier___AppDelegate.m:applicationdidFinishLaunchingWithOptions</key>
             <dict>
                 <key>Beginning</key>

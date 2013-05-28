@@ -25,20 +25,21 @@
 
     <key>Definitions</key>
     <dict>
+        <key>../.gitignore</key>
+        <dict>
+            <key>Group</key>
+            <string>Supporting Files</string>
+            <key>Path</key>
+            <string>gitignore</string>
+        </dict>
+
         <key>../Podfile</key>
-        <string>#
-#  ___FILENAME___
-#  ___PACKAGENAME___
-#
-#  Created by ___FULLUSERNAME___ on ___DATE___.
-#___COPYRIGHT___
-#
-
-platform :ios
-
-target :___PACKAGENAME___Tests, :exclusive => true do
-  pod 'Kiwi'
-end</string>
+        <dict>
+            <key>Group</key>
+            <string>Supporting Files</string>
+            <key>Path</key>
+            <string>Podfile</string>
+        </dict>
 
         <key>___PACKAGENAMEASIDENTIFIER___.h</key>
         <dict>
@@ -61,6 +62,7 @@ end</string>
 
     <key>Nodes</key>
     <array>
+        <string>../.gitignore</string>
         <string>../Podfile</string>
         <string>___PACKAGENAME___-Prefix.pch:objC:importFoundation</string>
         <string>___PACKAGENAMEASIDENTIFIER___.h</string>

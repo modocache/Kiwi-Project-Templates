@@ -17,6 +17,22 @@
 
     <key>Definitions</key>
     <dict>
+        <key>../.gitignore</key>
+        <dict>
+            <key>Group</key>
+            <string>Supporting Files</string>
+            <key>Path</key>
+            <string>gitignore</string>
+        </dict>
+
+        <key>../Podfile</key>
+        <dict>
+            <key>Group</key>
+            <string>Supporting Files</string>
+            <key>Path</key>
+            <string>Podfile</string>
+        </dict>
+
         <key>Default-568h@2x.png</key>
         <dict>
             <key>Group</key>
@@ -148,6 +164,7 @@
         <string>Default.png</string>
         <string>Default@2x.png</string>
         <string>Default-568h@2x.png</string>
+        <string>../.gitignore</string>
     </array>
 
     <key>Options</key>
